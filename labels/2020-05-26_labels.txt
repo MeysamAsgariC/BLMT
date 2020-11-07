@@ -1,0 +1,1 @@
+accident;officer;fired;george;floyd
