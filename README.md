@@ -6,14 +6,16 @@ In the `Obfuscated Data` zip file, you can find the xlsx, json and csv formats o
 In order to reference and learn more about the dataset, you can use the following bibtex and link to read the paper:
 
 ```bibtex
-@article{kemik2021blm,
-  title={BLM-17m: A Large-Scale Dataset for Black Lives Matter Topic Detection on Twitter},
-  author={Kemik, Hasan and {\"O}zate{\c{s}}, Nusret and Asgari-Chenaghlu, Meysam and Cambria, Erik},
-  journal={arXiv preprint arXiv:2105.01331},
-  year={2021}
+@misc{kemik2023blm17m,
+      title={BLM-17m: A Large-Scale Dataset for Black Lives Matter Topic Detection on Twitter}, 
+      author={Hasan Kemik and Nusret Özateş and Meysam Asgari-Chenaghlu and Erik Cambria},
+      year={2023},
+      eprint={2105.01331},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
-[Link to the paper.](https://arxiv.org/pdf/2105.01331)
+[Link to the paper.](https://arxiv.org/abs/2105.01331)
 
 ### Contributors
 
